@@ -45,5 +45,6 @@ export default function Produtos(){
                 </tr>
             </tbody>
         </table>
-    </div>)
+    </div>
+    )
 }
